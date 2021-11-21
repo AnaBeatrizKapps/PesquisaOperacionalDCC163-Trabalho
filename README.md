@@ -22,3 +22,6 @@ $ pip install -i https://pypi.gurobi.com gurobipy
 ```bash
 $ python3 main.py
 ```
+## Documentação do trabalho
+
+**1.** Acesse o link: https://drive.google.com/drive/folders/1I8c0If-S45VDghK-T-rWnH7pVQtcycW3?usp=sharing
