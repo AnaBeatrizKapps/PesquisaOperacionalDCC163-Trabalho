@@ -24,4 +24,4 @@ $ python3 main.py
 ```
 ## Documentação do trabalho
 
-**1.** Acesse o link: https://drive.google.com/drive/folders/1I8c0If-S45VDghK-T-rWnH7pVQtcycW3?usp=sharing
+**1.** Acesse o link: https://drive.google.com/file/d/1w9RpuVnuooa3nUVrTdnkgoNCzLZtYTeN/view?usp=sharing
